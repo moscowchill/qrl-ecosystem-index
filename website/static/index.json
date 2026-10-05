@@ -1,6 +1,6 @@
 {
   "count": 51,
-  "generated_at": "2026-10-05T08:21:32Z",
+  "generated_at": "2026-10-05T08:28:44Z",
   "projects": [
     {
       "id": "acornswap",
@@ -2191,8 +2191,15 @@
         {
           "type": "documentation",
           "url": "https://github.com/DigitalGuards/myqrlwallet-connect/blob/main/docs/JSON-RPC-REFERENCE.md"
+        },
+        {
+          "type": "application",
+          "url": "https://zondscan.com/dapp-example/",
+          "label": "Live demo dApp",
+          "platform": "web"
         }
-      ]
+      ],
+      "logo": "/images/logos/qrlwallet-connect/icon.png"
     },
     {
       "id": "qrypto-js",
